@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Generated data
+# Generated data and manuscripts
 */data/*
+Report.md
